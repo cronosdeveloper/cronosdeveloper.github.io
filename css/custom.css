@@ -1,0 +1,39 @@
+/* Put your custom css here */
+.pb10 {
+  padding-bottom: 10px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}
+
+.roadmap-title {
+  padding-top: 16px;
+  padding-bottom: 2px;
+} 
+
+
+.roadmap-title h3 {
+  font-weight: 100;
+} 
+
+article > div > p {
+  font-weight: 100 !important;
+}
+
+.presale-link {
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.presale-link a {
+  color: #3780d4 !important;
+}
+
+.presale-link-color {
+  color: #3780d4 !important;
+}
